@@ -32,7 +32,7 @@ This project ensures a seamless and user-friendly shopping experience, where use
 There is no specific installation required to run this project. You can simply open the project's HTML file in a web browser to start shopping online.
 
 ## Deploy  
-
+https://emrhdmn.github.io/shoppingcard-main/
 
 ## Screen
 
