@@ -20,13 +20,12 @@ This project ensures a seamless and user-friendly shopping experience, where use
 
 ## User Guide
 
-1. Open the Online Shopping Website in a web browser.
-2. Browse the list of available products and select the ones you want to purchase.
-3. Click on the product to view more details and click the "Add to Cart" button.
-4. The "Cart" button will become active, allowing you to access your shopping cart.
-5. View your selected products in the cart, adjust quantities, or remove items as needed.
-6. The total shopping amount will be updated automatically as you add or remove items.
-7. Enjoy a convenient and interactive online shopping experience!
+- Open the Online Shopping Website in a web browser.
+- Click on the product to view more details and click the "Add to Cart" button.
+- The "Cart" button will become active, allowing you to access your shopping cart.View your selected products in the cart, adjust quantities, or remove items as needed.
+- The total shopping amount will be updated automatically as you add or remove items.
+- Enjoy a convenient and interactive online shopping experience!
+- Browse the list of available products and select the ones you want to purchase.
 
 ## Installation
 
